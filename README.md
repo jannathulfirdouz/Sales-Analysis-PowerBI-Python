@@ -1,20 +1,16 @@
-# Sales Forecasting and Model Comparison
+# Sales Forecasting and Business Insights
 
-This project analyzes monthly sales data and builds multiple forecasting models to predict future sales.  
-It compares model performance using error metrics and selects the most accurate method.  
-Forecasts are also segmented by product category to support business planning and inventory decisions.  
-A Power BI dashboard is included to visualize key insights interactively.
-
+This project combines Python forecasting models with an interactive Power BI dashboard to analyze historical sales data, predict future trends, and uncover actionable business insights. It demonstrates end-to-end analytics capability: from data cleaning and modeling to dashboard storytelling.
 
 ## Project Structure
 
-- `data/` — Cleaned monthly sales data  
-- `notebooks/` — Python notebook with forecasting models and visualizations  
-- `powerbi/` — Power BI dashboard file  
-- `images/` — Forecast comparison charts  
+- `data/` — Cleaned monthly sales data
+- `notebooks/` — Python forecasting models and visualizations
+- `powerbi/` — Power BI dashboard file
+- `images/` — Forecast charts and dashboard screenshots
 - `README.md` — Project overview and insights
 
-## Forecasting Models Used
+## Forecasting Models (Python)
 
 | Model             | Approach                | Library      |
 | ----------------- | ----------------------- | ------------ |
@@ -54,6 +50,7 @@ Phone and Printer show moderate growth
 
 This analysis supports inventory planning, marketing strategy, and product prioritization.
 
+This segmentation supports inventory planning, marketing strategy, and product prioritization.
 
 ## Visualizations
 
@@ -65,27 +62,43 @@ This analysis supports inventory planning, marketing strategy, and product prior
 
 ## Power BI Dashboard
 
-A dedicated Power BI dashboard was created to complement the Python analysis.  
-It includes:
+The Power BI dashboard provides interactive analysis of historical sales performance across four key areas: 
 
-- **Sales Overview Page**  
-  - Total revenue  
-  - Monthly trends  
-  - Top-performing products  
-  - Regional breakdown  
+### **1. Executive Overview** 
+- Total sales, orders, and average order value
+- Sales by region and product
+- Monthly sales trends
+- Filters: Region, Product, Year
 
-- **Product Performance Page**  
-  - Product-wise sales trends  
-  - Forecast overlays  
-  - Contribution to total revenue  
+### **2. Customer Insights** 
+- Retail vs Wholesale comparison
+- Top 10 customers by revenue
+- Orders by region and customer type -
+- Discount impact on sales
+- Promotion usage analysis
+- Filters: CustomerType, Region, Year
 
-- **Forecast Insights Page**  
-  - Python-generated forecasts imported into Power BI  
-  - Comparison of actual vs predicted values  
-  - Product-level forecast visuals  
+### **3. Salesperson & Store Performance** 
+- Sales by store location
+- Discounts given by salesperson
+- Sales by region manager - Orders and revenue by salesperson
+- Highlights: Top salesperson, top store
+- Filters: Salesperson, StoreLocation, Region, Year
 
-This dashboard allows stakeholders to explore insights interactively and supports data-driven decision-making.
+### **4. Delivery & Returns Analysis** 
+- Late deliveries by store
+- Returns by product and region
+- Delivery time distribution
+- Return rate and total returns
+- Filters: Product, Region, StoreLocation, Year
+  
+This dashboard allows stakeholders to explore insights interactively and supports data-driven decision-making.  
+### 🔗 Dashboard Purpose 
+Power BI enables stakeholders to explore historical performance interactively. Python forecasting adds predictive power for future planning.
 
+Together, they deliver a complete analytics solution: 
+
+**Power BI for exploration → Python for forecasting → Insights for action**
 
 ## Tools & Libraries
 
@@ -101,17 +114,19 @@ This dashboard allows stakeholders to explore insights interactively and support
 
 This project demonstrates:
 
-- Forecasting accuracy across multiple models  
+- Multi-model forecasting and evaluation 
 - Segmented forecasting by product  
 - Model selection based on RMSE  
-- Integration of Python forecasting with Power BI dashboards  
-- Business storytelling through visuals and insights  
+- Integration of Python and Power BI 
+- Business storytelling through dashboards and visuals  
 
-It’s designed to showcase advanced analytics skills for business intelligence roles.
-
+It showcases advanced analytics skills for data analyst and business intelligence roles.
 
 ## 📬 Contact
 
 **Jannathul Firdouz**  
-Aspiring Data Analyst | Forecasting & Dashboarding Enthusiast  
-[LinkedIn Profile](#) | [GitHub Portfolio](#)
+Master of Analytics
+
+🔗 LinkedIn: https://www.linkedin.com/in/jannathul-firdouz-58298b321  
+💻 GitHub: https://github.com/jannathulfirdouz
+
