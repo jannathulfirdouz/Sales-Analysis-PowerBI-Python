@@ -124,17 +124,31 @@ Wholesale customers contribute higher revenue, while retail customers generate m
 Certain regions show higher late deliveries and return rates, suggesting opportunities to improve logistics and product quality.
 
 
-## Business Impact
+## Key Business Recommendations
 
-This project demonstrates:
+Prioritize High‑Profit Products  
+Tablet and Laptop categories generate the strongest revenue and should be the focus for inventory planning and targeted marketing.
 
-- Multi-model forecasting and evaluation 
-- Segmented forecasting by product  
-- Model selection based on RMSE  
-- Integration of Python and Power BI 
-- Business storytelling through dashboards and visuals  
+Refine Discount Strategy  
+Lower discount ranges (0–5%) deliver the highest average sales, suggesting that deeper discounts may not be necessary to drive demand.
 
-It showcases advanced analytics skills for data analyst and business intelligence roles.
+Reduce High Return Rates  
+The overall return rate of 24.8% is elevated. Investigating product quality, delivery issues, or customer expectations can help reduce losses.
+
+Leverage Top Sales Performers  
+Bob contributes the highest revenue ($796K). His sales approach can be used as a benchmark for training and performance optimization.
+
+Optimize Shipping Costs  
+Shipping expenses vary across regions. Reviewing logistics partners and delivery routes may uncover cost‑saving opportunities.
+
+Strengthen Promotion Strategy  
+The FREESHIP promotion performs well and can be expanded or paired with targeted campaigns to boost conversions.
+
+Focus on Customer Retention  
+Wholesale customers provide stable, high‑value business. Strengthening retention programs and relationship management can increase long‑term revenue.
+
+Plan for Seasonal Demand  
+Quarterly sales patterns show clear seasonality. Align inventory, staffing, and promotions with peak periods to maximize efficiency.
 
 ## 📬 Contact
 
