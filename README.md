@@ -31,7 +31,7 @@ Performance was measured using MAE, RMSE, and MAPE.
 | Linear Regression | 17,084 | 21,957 | 10.45% |
 
 
-Holt-Winters achieved the lowest RMSE and produced the most stable and realistic forecasts, making it the preferred model for this dataset.
+Holt-Winters achieved the lowest RMSE, indicating strong performance in minimizing large forecast errors. However, SARIMA achieved the lowest MAPE (10.25%), making it the most accurate model overall in percentage terms. Given the importance of MAPE for business forecasting and SARIMA’s ability to capture seasonality and trend, SARIMA was selected as the preferred model for this dataset.
 
 ## Product-wise Forecasting
 
