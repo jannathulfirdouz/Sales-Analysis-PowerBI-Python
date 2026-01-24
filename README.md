@@ -107,7 +107,21 @@ Together, they deliver a complete analytics solution:
 - Matplotlib  
 - Statsmodels  
 - scikit-learn  
-- Power BI  
+- Power BI
+
+## Insights
+
+Overall sales show a steady upward trend, and forecasts indicate continued moderate growth.
+
+Holt‑Winters produced the most stable forecast pattern and the lowest RMSE, making it the preferred model for future planning.
+
+Product‑wise forecasting highlights Tablets and Phones as growth categories, while Desks show a declining trend.
+
+Chairs, Laptops, and Monitors remain stable, providing consistent revenue with low volatility.
+
+Wholesale customers contribute higher revenue, while retail customers generate more frequent orders.
+
+Certain regions show higher late deliveries and return rates, suggesting opportunities to improve logistics and product quality.
 
 
 ## Business Impact
